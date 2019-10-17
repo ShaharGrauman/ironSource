@@ -1,0 +1,12 @@
+{
+    "rabbit": "amqp://localhost",
+    "dateTimeFormat": "DD/MM/YYYY HH:mm:ss",
+    "ordersFile": "data.json",
+    "stations": [
+        {"name": "Dough", "input": "dough", "output": "toppings"},
+        {"name": "Toppings", "input": "toppings", "output": "oven"},
+        {"name": "Oven", "input": "oven", "output": "waiter"},
+        {"name": "Waiter", "input": "waiter", "output": "done"}
+    ],
+    "doneStation": {"name": "Done", "input": "done"}
+}

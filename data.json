@@ -1,0 +1,9 @@
+{
+    "orders": [
+        {"id": 1, "toppings": ["mashrooms", "cheese"], "log": []},
+        {"id": 2, "toppings": [], "log": []},
+        {"id": 3, "toppings": ["beef", "mashrooms", "cheese"], "log": []},
+        {"id": 4, "toppings": ["tomatoes"], "log": []},
+        {"id": 5, "toppings": [], "log": []}
+    ]
+}
