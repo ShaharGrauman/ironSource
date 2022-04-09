@@ -12,6 +12,6 @@
   "dependencies": {
     "amqplib": "^0.5.5",
     "cli-progress": "^3.3.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.2"
   }
 }
